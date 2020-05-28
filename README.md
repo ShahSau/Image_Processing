@@ -1,2 +1,2 @@
 # Image_Processing
-These projects are done using open-Cv.
+These projects are done using openCV2.
